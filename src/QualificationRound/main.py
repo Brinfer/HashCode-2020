@@ -6,7 +6,7 @@ import platform as plt
 import time as time
 
 """ Path to text files containing input information . """
-PATH_INPUT_FOLDER = "./HashCode-2020/src/QualificationRound/Input/"
+PATH_INPUT_FOLDER = "./src/QualificationRound/Input/"
 PATH_INPUT_1 = "a_example.txt"
 PATH_INPUT_2 = "b_read_on.txt"
 PATH_INPUT_3 = "c_incunabula.txt"

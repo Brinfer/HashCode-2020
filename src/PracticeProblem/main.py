@@ -6,7 +6,7 @@ import tqdm as tqdm
 
 
 """ Path to text files containing input information . """
-PATH_INPUT_FOLDER = "./HashCode-2020/src/PracticeProblem/Input/"
+PATH_INPUT_FOLDER = "./src/PracticeProblem/Input/"
 PATH_INPUT_1 = PATH_INPUT_FOLDER + "a_example.in"
 PATH_INPUT_2 = PATH_INPUT_FOLDER + "b_small.in"
 PATH_INPUT_3 = PATH_INPUT_FOLDER + "c_medium.in"
